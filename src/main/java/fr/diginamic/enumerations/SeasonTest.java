@@ -4,12 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-/**
- * This class allows test to Season enumeration
- * 
- * @author clarousse
- *
- */
 public class SeasonTest {
 
 	@Test
